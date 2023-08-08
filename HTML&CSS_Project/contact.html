@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>The Melody Store-contact</title>
+        <meta name="description" content="It contains poster of movie named The Walk">
+        <meta name="robots" content="noindex, nofollow">
+        <!-- Add our own CSS -->
+        <link rel="stylesheet" href="./css/style.css">
+        <!-- Add our own fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@700&display=swap" rel="stylesheet"><link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Vast+Shadow&display=swap" rel="stylesheet">
+<!--add js-->
+<script src="./javascript/common.js"></script>
+    </head>
+<body>
+    <header>
+        <div>
+         <img src="./images/logo.png" alt="The Melody Store-logo">
+         <span class="company-name">THE MELODY STORE</span>
+        </div>
+         <nav>
+          <ul>
+                <li><a href="#">Facebook</a></li>
+            <li><a href="#" >Twitter</a></li>
+            <li><a href="#" >Instagram</a></li>
+            <li><a href="#">LinkedIn</a></li>
+          
+            <li><a href="./home.html" class="page-link1">Home</a></li>
+            <li><a href="./about.html" class="page-link2">About Us</a></li>
+            <li><a href="./product.html" class="page-link3">Product</a></li>
+            <li><a href="./contact.html" class="page-links4">Contact Us</a></li>
+            
+          </ul>
+         </nav>
+      </header>
+    <main>
+      <!-- creating various forms in contact section to make it look better 
+        and to make it more content worthy-->
+        <h1 class="contact-head">Contact Us</h1>
+        <p class="form-insrtruction">Please fill out the form below to contact us.</p>
+        <div class="container">
+          <div class="form-container">
+            <form onsubmit="successMessage(); return false;">
+              <!--using table here to make it look organized-->
+              <table>
+                <tr>
+                  <td><label for="name">Name:</label></td>
+                  <td><input type="text" id="name" name="name" required></td>
+                </tr>
+                <tr>
+                  <td><label for="email">Email:</label></td>
+                  <td><input type="email" id="email" name="email" required></td>
+                </tr>
+                <tr>
+                  <td><label for="phone">Phone:</label></td>
+                  <td><input type="tel" id="phone" name="phone"></td>
+                </tr>
+                <tr>
+                  <td><label for="message1">Message:</label></td>
+                  <td><textarea id="message1" name="message" required></textarea></td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td><input type="submit" value="Submit"></td>
+                  
+                </tr>
+              </table>
+              Your query will be taken care of within next 24 hours, and we'll contact you via email on the provided email address.
+            </form>
+          </div>
+          <div class="image-container">
+            <img src="./images/contact-pic.jpg" alt="Example Image">
+          </div>
+        </div>
+        <div class="feedback">
+        <h2>Your feedback is precious to us</h2>
+        <form onsubmit="successMessage(); return false;">
+        <label for="message2">Feedback:</label>
+        <textarea id="message2" name="message" required></textarea>
+        <input type="submit" value="Send">
+    
+    </form>
+</div>
+<div class="on-call">
+    <h2>On-Call assistance</h2>
+    <p>For on-call assistance, give a call on (123) 456-7890</p>
+    during office hours Monday to Friday: 9am to 5pm
+</div>
+    </main>
+    <footer id="contact">
+        <nav>
+        <ul>
+            <li><a href="./home.html">Home</a></li>
+            <li><a href="./about.html" >About Us</a></li>
+            <li><a href="./product.html" >Product</a></li>
+            <li><a href="./contact.html">Contact Us</a></li>
+        </ul>
+    </nav>
+        <div class="social-media">
+        </div>
+        <p>&copy; 2023 The Melody Store. All rights reserved.</p>
+      </footer>
+ 
+</body>
+</html>
+

@@ -1,0 +1,15 @@
+C:\Users\akshi\OneDrive\Desktop\c#_game\bin\Debug\net7.0\c#_game.exe
+C:\Users\akshi\OneDrive\Desktop\c#_game\bin\Debug\net7.0\c#_game.deps.json
+C:\Users\akshi\OneDrive\Desktop\c#_game\bin\Debug\net7.0\c#_game.runtimeconfig.json
+C:\Users\akshi\OneDrive\Desktop\c#_game\bin\Debug\net7.0\c#_game.dll
+C:\Users\akshi\OneDrive\Desktop\c#_game\bin\Debug\net7.0\c#_game.pdb
+C:\Users\akshi\OneDrive\Desktop\c#_game\obj\Debug\net7.0\c#_game.csproj.AssemblyReference.cache
+C:\Users\akshi\OneDrive\Desktop\c#_game\obj\Debug\net7.0\c#_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshi\OneDrive\Desktop\c#_game\obj\Debug\net7.0\c#_game.AssemblyInfoInputs.cache
+C:\Users\akshi\OneDrive\Desktop\c#_game\obj\Debug\net7.0\c#_game.AssemblyInfo.cs
+C:\Users\akshi\OneDrive\Desktop\c#_game\obj\Debug\net7.0\c#_game.csproj.CoreCompileInputs.cache
+C:\Users\akshi\OneDrive\Desktop\c#_game\obj\Debug\net7.0\c#_game.dll
+C:\Users\akshi\OneDrive\Desktop\c#_game\obj\Debug\net7.0\refint\c#_game.dll
+C:\Users\akshi\OneDrive\Desktop\c#_game\obj\Debug\net7.0\c#_game.pdb
+C:\Users\akshi\OneDrive\Desktop\c#_game\obj\Debug\net7.0\c#_game.genruntimeconfig.cache
+C:\Users\akshi\OneDrive\Desktop\c#_game\obj\Debug\net7.0\ref\c#_game.dll
